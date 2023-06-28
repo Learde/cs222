@@ -1,0 +1,169 @@
+{
+  "main": {
+    "id": "86e59b2d2dd339c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "40f02383d9d6d276",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ae791b771856378d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "e635da92c4c376d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 Основные понятия.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "120d8c2492d55897",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a4e706b9f3727e1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e0fe32a2818e326e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dfe66a4ce581d9c3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9718acad5b9fdf44",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1a10ca22f05d8eee",
+    "type": "split",
+    "children": [
+      {
+        "id": "991595a08d66bbbd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "67bad5dd441bbb02",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01 Основные понятия.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0d3983e90893038c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01 Основные понятия.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ac7c362502ad8f06",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2935a3ad329306e8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01 Основные понятия.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e635da92c4c376d5",
+  "lastOpenFiles": [
+    "files/Pasted image 20230628210233.png",
+    "files/Pasted image 20230628210115.png",
+    "files/Pasted image 20230628205543.png",
+    "files/Pasted image 20230628205422.png",
+    "01 Основные понятия.md",
+    "files/Pasted image 20230628205024.png",
+    "files/Pasted image 20230628204955.png",
+    "files"
+  ]
+}
