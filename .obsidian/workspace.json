@@ -8,14 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ae791b771856378d",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "e635da92c4c376d5",
             "type": "leaf",
             "state": {
@@ -26,9 +18,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "88fb5e95df8193a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 История компьютерных сетей и Интернета.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bbf854ccc3983c8f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05 World Wide Web.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "646afa4f9d318f3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 История компьютерных сетей и Интернета.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Основные понятия.md",
+                "file": "05 World Wide Web.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 Основные понятия.md",
+                "file": "05 World Wide Web.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Основные понятия.md"
+                "file": "05 World Wide Web.md"
               }
             }
           }
@@ -155,15 +183,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e635da92c4c376d5",
+  "active": "bbf854ccc3983c8f",
   "lastOpenFiles": [
-    "files/Pasted image 20230628210233.png",
-    "files/Pasted image 20230628210115.png",
-    "files/Pasted image 20230628205543.png",
-    "files/Pasted image 20230628205422.png",
+    "04 Протоколы и службы прикладного уровня.md",
+    "files/Pasted image 20230701193940.png",
+    "files/Pasted image 20230701193918.png",
+    "files/Pasted image 20230701193231.png",
+    "files/Pasted image 20230701184453.png",
+    "files/Pasted image 20230701180544.png",
+    "files/Pasted image 20230701175302.png",
+    "05 World Wide Web.md",
+    "files/Pasted image 20230701161906.png",
+    "03 История компьютерных сетей и Интернета.md",
+    "files/Pasted image 20230701024015.png",
+    "files/Pasted image 20230701022513.png",
+    "files/Pasted image 20230701013414.png",
+    "02 Многоуровневые сетевые модели.md",
     "01 Основные понятия.md",
-    "files/Pasted image 20230628205024.png",
-    "files/Pasted image 20230628204955.png",
     "files"
   ]
 }
