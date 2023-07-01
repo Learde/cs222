@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Вопросы из Notion.md",
+                "file": "Вопросы по КС.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Вопросы из Notion.md",
+                "file": "Вопросы по КС.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Вопросы из Notion.md",
+                "file": "Вопросы по КС.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Вопросы из Notion.md"
+                "file": "Вопросы по КС.md"
               }
             }
           }
@@ -198,7 +198,7 @@
   "active": "86743d5555043303",
   "lastOpenFiles": [
     "05 World Wide Web.md",
-    "Вопросы из Notion.md",
+    "Вопросы по КС.md",
     "04 Протоколы и службы прикладного уровня.md",
     "02 Многоуровневые сетевые модели.md",
     "files/Pasted image 20230701193940.png",
