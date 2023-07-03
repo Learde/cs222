@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Глоссарий.md",
+                "file": "Вопросы по КС.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Глоссарий.md",
+                "file": "Вопросы по КС.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Глоссарий.md",
+                "file": "Вопросы по КС.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Глоссарий.md"
+                "file": "Вопросы по КС.md"
               }
             }
           }
@@ -209,6 +209,8 @@
   },
   "active": "62730f3f294db366",
   "lastOpenFiles": [
+    "files/Pasted image 20230703163149.png",
+    "files/ДОМ СЕТЬ.png",
     "Вопросы по КС.md",
     "Глоссарий.md",
     "05 World Wide Web.md",
@@ -224,7 +226,6 @@
     "03 История компьютерных сетей и Интернета.md",
     "files/Pasted image 20230701024015.png",
     "files/Pasted image 20230701022513.png",
-    "files/Pasted image 20230701013414.png",
     "01 Основные понятия.md",
     "files"
   ]
